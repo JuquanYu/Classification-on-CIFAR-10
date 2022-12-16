@@ -1,4 +1,4 @@
-# Deep-Learning-Mini-Project
+# ResNet on CIFAR-10
 ## Author
 Juquan Yu(jy3873@nyu.edu)  
 Shuai Zhang(sz3714@nyu.edu)  
